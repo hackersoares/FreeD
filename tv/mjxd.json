@@ -1,22 +1,22 @@
 {
   "data": [
     {
-      "name": "primeiro episódio",
+      "name": "第一集",
       "url": "https://pay.520yk.cn/256/?url=https://v.youku.com/v_show/id_XNDk4MzA1NDA1Ng==.html",
       "parse": true
     },
     {
-      "name": "segundo episódio",
+      "name": "第二集",
       "url": "https://pay.520yk.cn/256/?url=https://v.youku.com/v_show/id_XNDk4MzA1NDA3Mg==.html",
       "parse": true
     },
     {
-      "name": "terceiro episódio",
+      "name": "第三集",
       "url": "https://pay.520yk.cn/256/?url=https://v.youku.com/v_show/id_XNDk4MzA1NDA3Mg==.html",
       "parse": true
     },
     {
-      "name": "episódio quatro",
+      "name": "第四集",
       "url": "https://pay.520yk.cn/256/?url=https://v.youku.com/v_show/id_XNDk4MzA1NDA2OA==.html",
       "parse": true
     },

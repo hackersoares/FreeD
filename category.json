@@ -1,28 +1,28 @@
 {
   "data": [
     {
-      "title": "popular",
+      "title": "热门",
       "list": [
         {
-          "name": "envelope vermelho",
+          "name": "美团红包",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01bXVNGG2C4PZWpj9Jk_!!913168420.png",
           "url": "",
           "type": "api://meituanwaimai"
         },
         {
-          "name": "Está com fome?",
+          "name": "饿了么红包",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN012KNmnX2C4PZT5JXdH_!!913168420.png",
           "url": "https://s.click.ele.me/jEFucbu",
           "type": "url://taobao"
         },
         {
-          "name": "Vídeo de baixo custo",
+          "name": "低端影视",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kEWie22C4PZONZNHN_!!913168420.png",
           "url": "https://ddrk.me&&&https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
           "type": "app://customWeb"
         },
         {
-          "name": "Branco liso",
+          "name": "素白白",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01178WjU2C4PZONVD2G_!!913168420.png",
           "url": "https://www.subaibai.com/&&&id=6933",
           "type": "app://customWeb"
@@ -34,19 +34,19 @@
           "type": "app://customWeb"
         },
         {
-          "name": "Paofan Cinema e Tv",
+          "name": "泡饭影视",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01TTF6yj2C4PZSVq0eg_!!913168420.png",
           "url": "https://www.paofans.net/&&&adsbygoogle,googleapis,ads,google",
           "type": "app://customWeb"
         },
         {
-          "name": "Eddie",
+          "name": "爱迪",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01VEgwOb2C4PZZTpZsn_!!913168420.png",
           "url": "https://aidi.tv/&&&adsbygoogle,googleapis,ads,google",
           "type": "app://customWeb"
         },
         {
-          "name": "diretor de fábrica",
+          "name": "厂长",
           "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01VlhZFm2C4PZfSpvXp_!!913168420.png",
           "url": "https://www.qianoo.cn/&&&adsbygoogle,googleapis,ads,google",
           "type": "app://customWeb"
@@ -54,34 +54,34 @@
       ]
     },
     {
-      "title": "Compras",
+      "title": "购物",
       "list": [
         {
-          "name": "Jingdong",
+          "name": "京东",
           "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081109_786319",
           "url": "https://coupon.aikanll.com/?tmp=jd_hotitem&code=8uL0kH&f=web&demo_type=15",
           "type": "app://shopWeb"
         },
         {
-          "name": "pinduoduo",
+          "name": "拼多多",
           "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081139_686666",
           "url": "https://coupon.aikanll.com/?tmp=pdd_hotitem&code=4IEcGG&f=web&demo_type=16",
           "type": "app://shopWeb"
         },
         {
-          "name": "Vipshop",
+          "name": "唯品会",
           "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1625453776_572892",
           "url": "https://coupon.aikanll.com/?tmp=vip_brand&code=2GBPI3&f=web&demo_type=37",
           "type": "app://shopWeb"
         },
         {
-          "name": "Shopping Douyin",
+          "name": "抖音商城",
           "pic": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01lNrpEo2JJi21EW0jF_!!2053469401.png",
           "url": "https://coupon.aikanll.com/?tmp=tiktok_activity&code=xEvKLy",
           "type": "app://shopWeb"
         },
         {
-          "name": "recarrega",
+          "name": "话费充值",
           "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081139_686666",
           "url": "https://coupon.aikanll.com/?tmp=pdd_charge&code=sdAvFj",
           "type": "app://shopWeb"
@@ -89,34 +89,34 @@
       ]
     },
     {
-      "title": "cinema e tv",
+      "title": "影视",
       "list": [
         {
-          "name": "IQIYI",
+          "name": "爱奇艺",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01VEgwOb2C4PZZTpZsn_!!913168420.png",
           "url": "https://m.iqiyi.com/",
           "type": "app://x5WebParse"
         },
         {
-          "name": "Vídeo Tencent",
+          "name": "腾讯视频",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Tj0Xkv2C4PZVNK1Z4_!!913168420.png",
           "url": "https://m.v.qq.com/index.html",
           "type": "app://x5WebParse"
         },
         {
-          "name": "video youku",
+          "name": "优酷视频",
           "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01AReH5K2C4PZaDNenV_!!913168420.png",
           "url": "https://www.youku.com/",
           "type": "app://x5WebParse"
         },
         {
-          "name": "tv manga",
+          "name": "芒果TV",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kRpcdw2C4PZPrrNAv_!!913168420.png",
           "url": "https://m.mgtv.com/channel/home",
           "type": "app://x5WebParse"
         },
         {
-          "name": "Bilibili",
+          "name": "哔哩哔哩",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Y2Kpb02C4PZOOOaxK_!!913168420.png",
           "url": "https://m.bilibili.com/",
           "type": "app://x5WebParse"
@@ -130,28 +130,28 @@
       ]
     },
     {
-      "title": "canais ao vivo",
+      "title": "直播",
       "list": [
         {
-          "name": "CCTV",
+          "name": "央视",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN016MnVLV2C4PZQRzmnB_!!913168420.png",
           "url": "https://tv.cctv.com/live/",
           "type": "app://customWeb"
         },
         {
-          "name": "Pinguim Esportes",
+          "name": "企鹅体育",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01ugSCtL2C4PZT5LHj5_!!913168420.png",
           "url": "https://live.qq.com/directory/all",
           "type": "app://customWeb"
         },
         {
-          "name": "Huya",
+          "name": "虎牙",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01j397tW2C4PZPrrVTZ_!!913168420.png",
           "url": "https://www.huya.com/",
           "type": "app://customWeb"
         },
         {
-          "name": "peixe Betta",
+          "name": "斗鱼",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01tISPqb2C4PZJlI30n_!!913168420.png",
           "url": "https://www.douyu.com/",
           "type": "app://customWeb"
@@ -163,19 +163,19 @@
           "type": "app://customWeb"
         },
         {
-          "name": "Bilibili",
+          "name": "哔哩哔哩",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Y2Kpb02C4PZOOOaxK_!!913168420.png",
           "url": "https://live.bilibili.com/",
           "type": "app://customWeb"
         },
         {
-          "name": "Netease CC",
+          "name": "网易CC",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01Ng4pLI2C4PZT5LxJd_!!913168420.png",
           "url": "https://cc.163.com/",
           "type": "app://customWeb"
         },
         {
-          "name": "jogos pinguim",
+          "name": "企鹅电竞",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01ugSCtL2C4PZT5LHj5_!!913168420.png",
           "url": "https://egame.qq.com/",
           "type": "app://customWeb"
@@ -183,28 +183,28 @@
       ]
     },
     {
-      "title": "procurar",
+      "title": "搜索",
       "list": [
         {
-          "name": "baidu",
+          "name": "百度",
           "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01rgSnol2C4PZWpj0zL_!!913168420.png",
           "url": "https://www.baidu.com/",
           "type": "app://customWeb"
         },
         {
-          "name": "Google",
+          "name": "谷歌",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Nf90zc2C4PZPrsJNM_!!913168420.png",
           "url": "https://www.google.com",
           "type": "app://customWeb"
         },
         {
-          "name": "sogou",
+          "name": "搜狗",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01WuXEf42C4PZWLAHKI_!!913168420.png",
           "url": "https://www.sogou.com/",
           "type": "app://customWeb"
         },
         {
-          "name": "deve",
+          "name": "必应",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01i29exX2C4PZYb9Lxs_!!913168420.png",
           "url": "https://cn.bing.com/",
           "type": "app://customWeb"

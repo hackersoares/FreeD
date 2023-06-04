@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1,爱奇谈
+#EXTINF: -1, iQiTan
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱悬疑
+#EXTINF: -1, suspense amoroso
 http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱喜剧
+#EXTINF: -1, comédia romântica
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱经典
+#EXTINF: -1, amo os clássicos
 http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱美食
+#EXTINF: -1, amo a comida
 http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱解密
+#EXTINF: -1, adoro decifrar
 http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱都市
+#EXTINF: -1, amo a cidade
 http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱幼教
+#EXTINF: -1, amo educação pré-escolar
 http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱科幻
+#EXTINF: -1, amo ficção científica
 http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱江湖
+#EXTINF: -1, amo Jianghu
 http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱浪漫
+#EXTINF: -1, romance de amor
 http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱院线
+#EXTINF: -1, amo cinema
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱玩具
+#EXTINF: -1, adoro brinquedos
 http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱时尚
+#EXTINF: -1, amo moda
 http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱军武
+#EXTINF: -1, Com amor Junwu
 http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱历史
+#EXTINF: -1, história de amor
 http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,爱世界
+#EXTINF: -1, ame o mundo
 http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com

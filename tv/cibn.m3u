@@ -1,20 +1,4 @@
 #EXTM3U
-XTINF:-1 tvg-id="A Grande Conquista 01 (J)" tvg-name="A Grande Conquista 01 (J)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 01 (J)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118034.ts
-#EXTINF:-1 tvg-id="A Grande Conquista 01 (S)" tvg-name="A Grande Conquista 01 (S)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 01 (S)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118038.ts
-#EXTINF:-1 tvg-id="A Grande Conquista 02 (J)" tvg-name="A Grande Conquista 02 (J)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 02 (J)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118035.ts
-#EXTINF:-1 tvg-id="A Grande Conquista 02 (S)" tvg-name="A Grande Conquista 02 (S)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 02 (S)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118082.ts
-#EXTINF:-1 tvg-id="A Grande Conquista 03 (J)" tvg-name="A Grande Conquista 03 (J)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 03 (J)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118036.ts
-#EXTINF:-1 tvg-id="A Grande Conquista 03 (S)" tvg-name="A Grande Conquista 03 (S)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 03 (S)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118083.ts
-#EXTINF:-1 tvg-id="A Grande Conquista 04 (J)" tvg-name="A Grande Conquista 04 (J)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 04 (J)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118037.ts
-#EXTINF:-1 tvg-id="A Grande Conquista 04 (S)" tvg-name="A Grande Conquista 04 (S)" tvg-logo="https://i.imgur.com/KTtqo01.png" group-title="REALITY | A Grande Conquista",A Grande Conquista 04 (S)
-http://tv.factoryiptv.com/live/wG4qnAymJM/duoiptv/118084.ts
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://45.230.96.42:8080/icones/ae.png" group-title="FILMES&SERIES",A&E
 http://45.230.96.42:80/distv/@distv/630
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://45.230.96.42:8080/icones/agrobrasil.png" group-title="PARABOLICA",AGRO BRASIL

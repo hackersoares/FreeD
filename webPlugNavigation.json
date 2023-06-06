@@ -10,13 +10,13 @@
             "click":true,
             "webPlus":{
                 "search_url":"https://gofilmes.co/?s={search_term_string}",
-                "nav_url":"https://gofilmes.co/movies/category/navCate/navPage.html",
+                "nav_url":"https://gofilmes.co/movies/category/",
                 "web_name":"Arquivo Movies - GoFilmes.co - Assistir Filmes e Séries Online Grátis em HD",
                 "search":true,
                 "navHtml":{
                     "name":[
                         "Ação",
-                        "Action &amp; Adventure",
+                        "Ação e Aventura",
                         "Animação",
                         "Aventura",
 			"Cinema TV",
